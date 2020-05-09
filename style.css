@@ -4,6 +4,10 @@
 	padding: 0;
 }
 
+*:focus {
+    outline: none;
+}
+
 #indexBody{
 	background-color: orange;
 }
@@ -22,7 +26,6 @@
 	background-color: orange;
 	color: white;
 	border-radius: 14px;
-        outline: none;
 }
 .ac{
 	background-color: red;
@@ -40,7 +43,6 @@
 	font-size: 25px;
 	padding: 5px;
 	border-radius: 10px;
-        outline: none;
 
 }
 
